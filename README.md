@@ -3,3 +3,10 @@
 ## Projeto APS - 6ª Fase de Ciencia da Computação | IES/FASC
 
 Detecção e Extração de Textos com Reconhecimento Ótico de Caracteres (OCR) utilizando o Google Colab e a biblioteca Tesseract e PyTesseract.
+
+### Principais objetivos
+
+- processamento de imagens utilizando algoritmos de visão computacional e IA.
+
+- Detecção e extração de texto com reconhecimento óptico de caracteres - OCR
+
